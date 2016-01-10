@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:3:7-29
+		INJECTED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:7:5-8:66
+	android:name
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:8:9-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:10:5-11:54
+	android:name
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:11:9-51
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:14:22-78
+application
+ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:15:5-24:19
+	android:label
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:15:48-80
+	android:icon
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:15:18-47
+activity#com.examples.Main
+ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:label
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:17:19-51
+	android:name
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:16:19-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/kalak/AndroidStudioProjects/Count down y GPS/app/src/main/AndroidManifest.xml:20:27-74
