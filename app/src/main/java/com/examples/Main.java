@@ -37,6 +37,12 @@ public class Main extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
+        InputOutputLocal util = new InputOutputLocal();
+        util.writeConfiguration(this);
+        util.readFileFromInternalStorage("config.txt", this);
+
+
+
         /** ELEGIR SEGUNDOS **/
 
         //addItemsOnSpinner2();
